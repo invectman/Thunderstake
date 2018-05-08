@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About StackBIT</source>
-        <translation>Sobre StackBIT</translation>
+        <source>About Thunderstake</source>
+        <translation>Sobre Thunderstake</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;StackBIT&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;StackBIT&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Thunderstake&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Thunderstake&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The StackBIT developers</source>
+Copyright © 2014 The Thunderstake developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The StackBIT developers</translation>
+Copyright © 2014 The Thunderstake developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your StackBIT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de StackBIT per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Thunderstake addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Thunderstake per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a StackBIT address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça StackBIT</translation>
+        <source>Sign a message to prove you own a Thunderstake address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Thunderstake</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified StackBIT address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça StackBIT especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Thunderstake address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Thunderstake especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>StackBIT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>StackBIT tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Thunderstake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Thunderstake tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about StackBIT</source>
-        <translation>Mostra informació sobre StackBIT</translation>
+        <source>Show information about Thunderstake</source>
+        <translation>Mostra informació sobre Thunderstake</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a StackBIT address</source>
-        <translation>Enviar monedes a una adreça StackBIT</translation>
+        <source>Send coins to a Thunderstake address</source>
+        <translation>Enviar monedes a una adreça Thunderstake</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for StackBIT</source>
-        <translation>Modificar les opcions de configuració per a StackBIT</translation>
+        <source>Modify configuration options for Thunderstake</source>
+        <translation>Modificar les opcions de configuració per a Thunderstake</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About StackBIT</source>
-        <translation>&amp;Sobre StackBIT</translation>
+        <source>&amp;About Thunderstake</source>
+        <translation>&amp;Sobre Thunderstake</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>StackBIT client</source>
-        <translation>Client StackBIT</translation>
+        <source>Thunderstake client</source>
+        <translation>Client Thunderstake</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to StackBIT network</source>
-        <translation><numerusform>%n conexió activa a la xarxa StackBIT</numerusform><numerusform>%n conexions actives a la xarxa StackBIT</numerusform></translation>
+        <source>%n active connection(s) to Thunderstake network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Thunderstake</numerusform><numerusform>%n conexions actives a la xarxa Thunderstake</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -650,8 +650,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid StackBIT address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça StackBIT no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Thunderstake address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Thunderstake no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -710,8 +710,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. StackBIT can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. StackBIT ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Thunderstake can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Thunderstake ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1044,8 +1044,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid StackBIT address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça StackBIT vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Thunderstake address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Thunderstake vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,8 +1063,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>StackBIT-Qt</source>
-        <translation>StackBIT-Qt</translation>
+        <source>Thunderstake-Qt</source>
+        <translation>Thunderstake-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1136,13 +1136,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start StackBIT after logging in to the system.</source>
-        <translation>Inicia automàticament StackBIT després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Thunderstake after logging in to the system.</source>
+        <translation>Inicia automàticament Thunderstake després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start StackBIT on system login</source>
-        <translation>&amp;Iniciar StackBIT amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Thunderstake on system login</source>
+        <translation>&amp;Iniciar Thunderstake amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1161,8 +1161,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the StackBIT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client StackBIT en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Thunderstake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Thunderstake en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the StackBIT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa StackBIT través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Thunderstake network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Thunderstake través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1246,8 +1246,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting StackBIT.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar StackBIT.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Thunderstake.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Thunderstake.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1261,8 +1261,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show StackBIT addresses in the transaction list or not.</source>
-        <translation>Per mostrar StackBIT adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Thunderstake addresses in the transaction list or not.</source>
+        <translation>Per mostrar Thunderstake adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1308,8 +1308,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting StackBIT.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar StackBIT.</translation>
+        <source>This setting will take effect after restarting Thunderstake.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Thunderstake.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1327,8 +1327,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the StackBIT network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa StackBIT després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Thunderstake network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Thunderstake després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1543,8 +1543,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the StackBIT-Qt help message to get a list with possible StackBIT command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de StackBIT-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres StackBIT.</translation>
+        <source>Show the Thunderstake-Qt help message to get a list with possible Thunderstake command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Thunderstake-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Thunderstake.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,13 +1563,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>StackBIT - Debug window</source>
-        <translation>StackBIT - Finestra Depuració</translation>
+        <source>Thunderstake - Debug window</source>
+        <translation>Thunderstake - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>StackBIT Core</source>
-        <translation>Nucli StackBIT</translation>
+        <source>Thunderstake Core</source>
+        <translation>Nucli Thunderstake</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1578,8 +1578,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the StackBIT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració StackBIT des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Thunderstake debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Thunderstake des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the StackBIT RPC console.</source>
-        <translation>Benvingut a la consola RPC de StackBIT.</translation>
+        <source>Welcome to the Thunderstake RPC console.</source>
+        <translation>Benvingut a la consola RPC de Thunderstake.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1747,8 +1747,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça StackBIT (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Thunderstake (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,8 +1847,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid StackBIT address</source>
-        <translation>ADVERTÈNCIA: Direcció StackBIT invàlida</translation>
+        <source>WARNING: Invalid Thunderstake address</source>
+        <translation>ADVERTÈNCIA: Direcció Thunderstake invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1921,8 +1921,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça StackBIT (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Thunderstake (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1982,8 +1982,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this StackBIT address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça StackBIT</translation>
+        <source>Sign the message to prove you own this Thunderstake address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Thunderstake</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2014,8 +2014,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified StackBIT address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça StackBIT especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Thunderstake address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Thunderstake especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2025,8 +2025,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça StackBIT (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Thunderstake (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter StackBIT signature</source>
-        <translation>Introduïu la signatura StackBIT</translation>
+        <source>Enter Thunderstake signature</source>
+        <translation>Introduïu la signatura Thunderstake</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2606,8 +2606,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>StackBIT version</source>
-        <translation>versió StackBIT</translation>
+        <source>Thunderstake version</source>
+        <translation>versió Thunderstake</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or stackbitd</source>
-        <translation>Enviar comandes a -server o stackbitd</translation>
+        <source>Send command to -server or thunderstaked</source>
+        <translation>Enviar comandes a -server o thunderstaked</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,13 +2636,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: stackbit.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: stackbit.conf)</translation>
+        <source>Specify configuration file (default: thunderstake.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: thunderstake.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: stackbitd.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: stackbitd.pid)</translation>
+        <source>Specify pid file (default: thunderstaked.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: thunderstaked.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2791,8 +2791,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong StackBIT will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni StackBIT no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Thunderstake will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Thunderstake no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2981,24 +2981,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=stackbitrpc
+rpcuser=thunderstakerpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;StackBIT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Thunderstake Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=stackbitrpc
+rpcuser=thunderstakerpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;StackBIT Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Thunderstake Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3124,13 +3124,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  StackBIT is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. StackBIT probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Thunderstake is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Thunderstake probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3164,13 +3164,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StackBIT</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de StackBIT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Thunderstake</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Thunderstake</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart StackBIT to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar StackBIT per completar</translation>
+        <source>Wallet needed to be rewritten: restart Thunderstake to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Thunderstake per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3239,8 +3239,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. StackBIT is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. StackBIT probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Thunderstake is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Thunderstake probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

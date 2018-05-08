@@ -1,5 +1,5 @@
 
-StackBIT development tree
+Thunderstake development tree
 
-StackBIT is a PoS-based cryptocurrency.
+Thundertsake is a PoS-based cryptocurrency.
 

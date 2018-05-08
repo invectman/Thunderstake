@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About StackBIT</source>
-        <translation>Tietoa StackBITista</translation>
+        <source>About Thunderstake</source>
+        <translation>Tietoa Thunderstakeista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;StackBIT&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;StackBIT&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Thunderstake&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Thunderstake&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The StackBIT developers</source>
+Copyright © 2014 The Thunderstake developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your StackBIT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat StackBIT-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your Thunderstake addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat Thunderstake-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a StackBIT address</source>
-        <translation>Allekirjoita viesti osoittaaksesi StackBIT-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a Thunderstake address</source>
+        <translation>Allekirjoita viesti osoittaaksesi Thunderstake-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified StackBIT address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen StackBIT-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified Thunderstake address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen Thunderstake-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>StackBIT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>StackBIT-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>Thunderstake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Thunderstake-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about StackBIT</source>
-        <translation>Näytä tietoja StackBITista</translation>
+        <source>Show information about Thunderstake</source>
+        <translation>Näytä tietoja Thunderstakeista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a StackBIT address</source>
-        <translation>Lähetä kolikkoja StackBIT osoitteeseen</translation>
+        <source>Send coins to a Thunderstake address</source>
+        <translation>Lähetä kolikkoja Thunderstake osoitteeseen</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for StackBIT</source>
-        <translation>Mukauta StackBITin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for Thunderstake</source>
+        <translation>Mukauta Thunderstakein konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-200"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About StackBIT</source>
-        <translation>&amp;Tietoa StackBITista</translation>
+        <source>&amp;About Thunderstake</source>
+        <translation>&amp;Tietoa Thunderstakeista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>StackBIT client</source>
-        <translation>StackBIT-asiakas</translation>
+        <source>Thunderstake client</source>
+        <translation>Thunderstake-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to StackBIT network</source>
-        <translation><numerusform>%n aktiivinen yhteys StackBIT-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä StackBIT-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to Thunderstake network</source>
+        <translation><numerusform>%n aktiivinen yhteys Thunderstake-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Thunderstake-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid StackBIT address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä StackBIT-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Thunderstake address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Thunderstake-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. StackBIT can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. StackBIT-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. Thunderstake can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. Thunderstake-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid StackBIT address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty StackBIT-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Thunderstake address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Thunderstake-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>StackBIT-Qt</source>
-        <translation>StackBIT-Qt</translation>
+        <source>Thunderstake-Qt</source>
+        <translation>Thunderstake-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start StackBIT after logging in to the system.</source>
-        <translation>Käynnistä StackBIT-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start Thunderstake after logging in to the system.</source>
+        <translation>Käynnistä Thunderstake-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start StackBIT on system login</source>
-        <translation>%Käynnistä StackBIT-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start Thunderstake on system login</source>
+        <translation>%Käynnistä Thunderstake-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the StackBIT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa StackBIT-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the Thunderstake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa Thunderstake-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the StackBIT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä StackBIT-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the Thunderstake network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä Thunderstake-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting StackBIT.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta StackBIT-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Thunderstake.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Thunderstake-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show StackBIT addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota StackBIT-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show Thunderstake addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota Thunderstake-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting StackBIT.</source>
-        <translation>Tämä asetus tulee voimaan vasta StackBIT-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting Thunderstake.</source>
+        <translation>Tämä asetus tulee voimaan vasta Thunderstake-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the StackBIT network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti StackBIT-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Thunderstake network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Thunderstake-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the StackBIT-Qt help message to get a list with possible StackBIT command-line options.</source>
-        <translation>Näytä StackBIT-Qt:n avustusohje saadaksesi listan käytettävistä StackBITin komentokehotteen määritteistä.</translation>
+        <source>Show the Thunderstake-Qt help message to get a list with possible Thunderstake command-line options.</source>
+        <translation>Näytä Thunderstake-Qt:n avustusohje saadaksesi listan käytettävistä Thunderstakein komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>StackBIT - Debug window</source>
-        <translation>StackBIT - Debug-ikkuna</translation>
+        <source>Thunderstake - Debug window</source>
+        <translation>Thunderstake - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>StackBIT Core</source>
-        <translation>StackBITin ydin</translation>
+        <source>Thunderstake Core</source>
+        <translation>Thunderstakein ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the StackBIT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa StackBIT-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the Thunderstake debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Thunderstake-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the StackBIT RPC console.</source>
-        <translation>Tervetuloa StackBITin RPC-konsoliin.</translation>
+        <source>Welcome to the Thunderstake RPC console.</source>
+        <translation>Tervetuloa Thunderstakein RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä StackBIT-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Thunderstake-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid StackBIT address</source>
-        <translation>VAROITUS: Epäkelpo StackBIT-osoite</translation>
+        <source>WARNING: Invalid Thunderstake address</source>
+        <translation>VAROITUS: Epäkelpo Thunderstake-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä StackBIT-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Thunderstake-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this StackBIT address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän StackBIT-osoitteen</translation>
+        <source>Sign the message to prove you own this Thunderstake address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Thunderstake-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified StackBIT address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä StackBIT-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified Thunderstake address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Thunderstake-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä StackBIT-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä Thunderstake-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter StackBIT signature</source>
-        <translation>Syötä StackBIT-allekirjoitus</translation>
+        <source>Enter Thunderstake signature</source>
+        <translation>Syötä Thunderstake-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>StackBIT version</source>
-        <translation>StackBITin versio</translation>
+        <source>Thunderstake version</source>
+        <translation>Thunderstakein versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or stackbitd</source>
-        <translation>Syötä komento kohteeseen -server tai stackbitd</translation>
+        <source>Send command to -server or thunderstaked</source>
+        <translation>Syötä komento kohteeseen -server tai thunderstaked</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: stackbit.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: stackbit.conf)</translation>
+        <source>Specify configuration file (default: thunderstake.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: thunderstake.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: stackbitd.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: stackbit.pid)</translation>
+        <source>Specify pid file (default: thunderstaked.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: thunderstake.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong StackBIT will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, StackBIT ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Thunderstake will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Thunderstake ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,23 +2988,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=stackbitrpc
+rpcuser=thunderstakerpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;StackBIT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Thunderstake Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=stackbitrpc
+rpcuser=thunderstakerpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;StackBIT Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Thunderstake Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3129,13 +3129,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  StackBIT is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. StackBIT-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Thunderstake is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Thunderstake-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3169,13 +3169,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StackBIT</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version StackBIT-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Thunderstake</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Thunderstake-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart StackBIT to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä StackBIT-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart Thunderstake to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Thunderstake-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3244,8 +3244,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. StackBIT is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. StackBIT-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. Thunderstake is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. Thunderstake-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>

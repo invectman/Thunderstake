@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About StackBIT</source>
-        <translation>Om StackBIT</translation>
+        <source>About Thunderstake</source>
+        <translation>Om Thunderstake</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;StackBIT&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;StackBIT&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Thunderstake&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Thunderstake&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The StackBIT developers</source>
+Copyright © 2014 The Thunderstake developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The StackBIT developers</translation>
+Copyright © 2014 The Thunderstake developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your StackBIT addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine StackBIT adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your Thunderstake addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Thunderstake adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a StackBIT address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en StackBIT adresse</translation>
+        <source>Sign a message to prove you own a Thunderstake address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified StackBIT address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret StackBIT adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Thunderstake address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>StackBIT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>StackBIT lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>Thunderstake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Thunderstake lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about StackBIT</source>
-        <translation>Vis oplysninger om StackBIT</translation>
+        <source>Show information about Thunderstake</source>
+        <translation>Vis oplysninger om Thunderstake</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a StackBIT address</source>
-        <translation>Send mønter til en StackBIT adresse</translation>
+        <source>Send coins to a Thunderstake address</source>
+        <translation>Send mønter til en Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for StackBIT</source>
-        <translation>Ændre indstillingsmuligheder for StackBIT</translation>
+        <source>Modify configuration options for Thunderstake</source>
+        <translation>Ændre indstillingsmuligheder for Thunderstake</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About StackBIT</source>
-        <translation>&amp;Om StackBIT</translation>
+        <source>&amp;About Thunderstake</source>
+        <translation>&amp;Om Thunderstake</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>StackBIT client</source>
-        <translation>StackBIT klient</translation>
+        <source>Thunderstake client</source>
+        <translation>Thunderstake klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to StackBIT network</source>
-        <translation><numerusform>%n aktiv forbindelse til StackBIT netværk</numerusform><numerusform>%n aktive forbindelser til StackBIT netværk</numerusform></translation>
+        <source>%n active connection(s) to Thunderstake network</source>
+        <translation><numerusform>%n aktiv forbindelse til Thunderstake netværk</numerusform><numerusform>%n aktive forbindelser til Thunderstake netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid StackBIT address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig StackBIT adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Thunderstake address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Thunderstake adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. StackBIT can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Thunderstake can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1053,8 +1053,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid StackBIT address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig StackBIT adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Thunderstake address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Thunderstake adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>StackBIT-Qt</source>
-        <translation>StackBIT-Qt</translation>
+        <source>Thunderstake-Qt</source>
+        <translation>Thunderstake-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start StackBIT after logging in to the system.</source>
-        <translation>Automatisk start StackBIT efter at have logget ind på systemet.</translation>
+        <source>Automatically start Thunderstake after logging in to the system.</source>
+        <translation>Automatisk start Thunderstake efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start StackBIT on system login</source>
-        <translation>&amp;Start StackBIT ved systems login</translation>
+        <source>&amp;Start Thunderstake on system login</source>
+        <translation>&amp;Start Thunderstake ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the StackBIT client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne StackBIT klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the Thunderstake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne Thunderstake klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the StackBIT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til StackBIT netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the Thunderstake network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til Thunderstake netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting StackBIT.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af StackBIT tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Thunderstake.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Thunderstake tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show StackBIT addresses in the transaction list or not.</source>
-        <translation>Få vist StackBIT adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show Thunderstake addresses in the transaction list or not.</source>
+        <translation>Få vist Thunderstake adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting StackBIT.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af StackBIT.</translation>
+        <source>This setting will take effect after restarting Thunderstake.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af Thunderstake.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the StackBIT network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med StackBIT netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Thunderstake network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Thunderstake netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the StackBIT-Qt help message to get a list with possible StackBIT command-line options.</source>
-        <translation>Vis StackBIT-Qt hjælpe besked for at få en liste med mulige StackBIT kommandolinjeparametre.</translation>
+        <source>Show the Thunderstake-Qt help message to get a list with possible Thunderstake command-line options.</source>
+        <translation>Vis Thunderstake-Qt hjælpe besked for at få en liste med mulige Thunderstake kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>StackBIT - Debug window</source>
-        <translation>StackBIT - Debug vindue</translation>
+        <source>Thunderstake - Debug window</source>
+        <translation>Thunderstake - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>StackBIT Core</source>
-        <translation>StackBIT Kerne</translation>
+        <source>Thunderstake Core</source>
+        <translation>Thunderstake Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the StackBIT debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn StackBIT debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the Thunderstake debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Thunderstake debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the StackBIT RPC console.</source>
-        <translation>Velkommen til StackBIT RPC-konsol.</translation>
+        <source>Welcome to the Thunderstake RPC console.</source>
+        <translation>Velkommen til Thunderstake RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en StackBIT-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Thunderstake-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid StackBIT address</source>
-        <translation>ADVARSEL: Ugyldig StackBIT adresse</translation>
+        <source>WARNING: Invalid Thunderstake address</source>
+        <translation>ADVARSEL: Ugyldig Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en StackBIT-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Thunderstake-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this StackBIT address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne StackBIT adresse</translation>
+        <source>Sign the message to prove you own this Thunderstake address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified StackBIT address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne StackBIT adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified Thunderstake address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Thunderstake adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a StackBIT address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en StackBIT-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Thunderstake address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en Thunderstake-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter StackBIT signature</source>
-        <translation>Indtast StackBIT underskrift</translation>
+        <source>Enter Thunderstake signature</source>
+        <translation>Indtast Thunderstake underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>StackBIT version</source>
-        <translation>StackBIT version</translation>
+        <source>Thunderstake version</source>
+        <translation>Thunderstake version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or stackbitd</source>
-        <translation>Send kommando til-server eller stackbitd</translation>
+        <source>Send command to -server or thunderstaked</source>
+        <translation>Send kommando til-server eller thunderstaked</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: stackbit.conf)</source>
-        <translation>Angiv konfigurationsfil (default: stackbit.conf)</translation>
+        <source>Specify configuration file (default: thunderstake.conf)</source>
+        <translation>Angiv konfigurationsfil (default: thunderstake.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: stackbitd.pid)</source>
-        <translation>Angiv pid fil (standard: stackbitd.pid)</translation>
+        <source>Specify pid file (default: thunderstaked.pid)</source>
+        <translation>Angiv pid fil (standard: thunderstaked.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong StackBIT will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil StackBIT ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Thunderstake will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Thunderstake ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=stackbitrpc
+rpcuser=thunderstakerpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;StackBIT Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Thunderstake Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = stackbitrpc  
+rpcuser = thunderstakerpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;StackBIT Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;Thunderstake Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;StackBIT Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  StackBIT is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. StackBIT kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Thunderstake is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. Thunderstake kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>StackBIT</source>
-        <translation>StackBIT</translation>
+        <source>Thunderstake</source>
+        <translation>Thunderstake</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;StackBIT Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StackBIT</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af StackBIT</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Thunderstake</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Thunderstake</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart StackBIT to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart StackBIT for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart Thunderstake to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Thunderstake for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;StackBIT Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. StackBIT is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. StackBIT kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. Thunderstake is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. Thunderstake kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

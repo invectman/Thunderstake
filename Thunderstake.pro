@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = stackbit-qt
+TARGET = Thunderstake
 VERSION = 1.0.7
 INCLUDEPATH += src src/json src/qt
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
@@ -20,6 +20,19 @@ greaterThan(QT_MAJOR_VERSION, 4) {
 # Dependency library locations can be customized with:
 #    BOOST_INCLUDE_PATH, BOOST_LIB_PATH, BDB_INCLUDE_PATH,
 #    BDB_LIB_PATH, OPENSSL_INCLUDE_PATH and OPENSSL_LIB_PATH respectively
+
+win32 {
+  BOOST_INCLUDE_PATH=C:/devel/boost_1_55_0
+  BOOST_LIB_PATH=C:/devel/boost_1_55_0/stage/lib
+  BDB_INCLUDE_PATH=C:/devel/db-4.8.30
+  BDB_LIB_PATH=C:/devel/db-4.8.30
+  OPENSSL_INCLUDE_PATH=C:/devel/openssl-1.0.2o/include
+  OPENSSL_LIB_PATH=C:/devel/openssl-1.0.2o
+  MINIUPNPC_INCLUDE_PATH=C:/devel/miniupnpc-1.9
+  MINIUPNPC_LIB_PATH=C:/devel/miniupnpc-1.9
+  QRENCODE_INCLUDE_PATH=C:/devel/qrencode-3.4.4
+  QRENCODE_LIB_PATH=C:/devel/qrencode-3.4.4/.libs
+}
 
 OBJECTS_DIR = build
 MOC_DIR = build
@@ -404,7 +417,7 @@ macx:OBJECTIVE_SOURCES += src/qt/macdockiconhandler.mm
 macx:LIBS += -framework Foundation -framework ApplicationServices -framework AppKit
 macx:DEFINES += MAC_OSX MSG_NOSIGNAL=0
 macx:ICON = src/qt/res/icons/bitcoin.icns
-macx:TARGET = "StackBIT-Qt"
+macx:TARGET = "Thunderstake-Qt"
 macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread

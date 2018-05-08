@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("StackBITs");
-    case mBTC: return QString("Milli-StackBITs (1 / 1,000)");
-    case uBTC: return QString("Micro-StackBITs (1 / 1,000,000)");
+    case BTC: return QString("Thunderstakes");
+    case mBTC: return QString("Milli-Thunderstakes (1 / 1,000)");
+    case uBTC: return QString("Micro-Thunderstakes (1 / 1,000,000)");
     default: return QString("???");
     }
 }
