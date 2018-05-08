@@ -24,3 +24,14 @@ qrc_*.cpp
 build
 
 !src/leveldb/Makefile
+/object_script.Turbogold-qt_test.Release
+/Makefile.Debug
+/Makefile.Release
+/Makefile.test
+/Makefile.test.Debug
+/Makefile.test.Release
+/object_script.Thunderstake.Debug
+/object_script.Thunderstake.Release
+/object_script.Thunderstake-qt_test.Debug
+/object_script.Thunderstake-qt_test.Release
+/object_script.Turbogold-qt_test.Debug
