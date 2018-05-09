@@ -1013,19 +1013,19 @@ int64_t GetProofOfWorkReward(int64_t nFees)
 		return nFees;
 	}
 
-	int64_t nSubsidy = 100 * COIN;
+	int64_t nSubsidy = 0 * COIN;
 
 	if (nBestHeight == 0)
 	{
-		nSubsidy = 5000000 * COIN;
+		nSubsidy = 10000000 * COIN;
 	}
 	else if (nBestHeight + 1 <= 21600)
 	{
-		nSubsidy = 1 * COIN;
+		nSubsidy = 10 * COIN;
 	}
 	else if (nBestHeight + 1 > 21600)
 	{
-		nSubsidy = 5 * COIN;
+		nSubsidy = 50 * COIN;
 	}
 
 	if (fDebug && GetBoolArg("-printcreation"))
@@ -2570,7 +2570,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         const char* pszTimestamp = "NewYork Times Online 8th May 2018 - Trump Pulls U.S. from Iran Nuclear Deal";
         CTransaction txNew;
-        txNew.nTime = 1525807108;
+        txNew.nTime = 1525855168;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2580,9 +2580,9 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1525807108 ;
+        block.nTime    = 1525855168;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = !fTestNet ? 2752543 : 2752541;
+        block.nNonce   = !fTestNet ? 2752543 : 2752543;
         
         if (true  && (block.GetHash() != hashGenesisBlock)) {
 
@@ -2608,7 +2608,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nTime = %u \n", block.nTime);
         printf("block.nNonce = %u \n", block.nNonce);
                 
-        assert(block.hashMerkleRoot == uint256("0x23aac080d2913835add53b201338801180482beb4c3104d3ba55c0a680f7c82b"));
+        assert(block.hashMerkleRoot == uint256("0xfb903a46fb1044a8768344cb635933130680c734f99c2414d72c97f429378271"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         assert(block.CheckBlock());
 
