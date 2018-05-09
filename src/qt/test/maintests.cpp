@@ -11,22 +11,22 @@ void MainTests::testGetProofOfWorkReward()
 	QCOMPARE(GetProofOfWorkReward(fee), (5000000 * COIN + fee));
 
 	nBestHeight = 1;
-	QCOMPARE(GetProofOfWorkReward(fee), (1 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (10 * COIN + fee));
 
 	nBestHeight = 10;
-	QCOMPARE(GetProofOfWorkReward(fee), (1 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (10 * COIN + fee));
 
 	nBestHeight = 9000;
-	QCOMPARE(GetProofOfWorkReward(fee), (1 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (10 * COIN + fee));
 
 	nBestHeight = 21599;
-	QCOMPARE(GetProofOfWorkReward(fee), (1 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (10 * COIN + fee));
 
 	nBestHeight = 21601;
-	QCOMPARE(GetProofOfWorkReward(fee), (5 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (50 * COIN + fee));
 
 	nBestHeight = 400001;
-	QCOMPARE(GetProofOfWorkReward(fee), (5 * COIN + fee));
+	QCOMPARE(GetProofOfWorkReward(fee), (50 * COIN + fee));
 
 	//hardcap
 	pindexBest->nMoneySupply = MAX_MONEY+4;
