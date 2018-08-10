@@ -1035,6 +1035,12 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     return nSubsidy + nFees;
 }
 
+bool AprChangeFork1TimeReached()
+{
+	int64_t lastBlockTime = pindexBest->GetBlockTime();
+	return ( pindexBest && (lastBlockTime >= APR_CHANGE_FORK1_TIME) );
+}
+
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
@@ -1043,7 +1049,19 @@ int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
       return nFees;
     }
 
-    int64_t nSubsidy = nCoinAge * COIN_YEAR_REWARD * 33 / (365 * 33 + 8);
+    int64_t currentReward = COIN_YEAR_REWARD;
+    int64_t lastBlockTime = pindexBest->GetBlockTime();
+
+    bool aprChangeFork1TimeReached = AprChangeFork1TimeReached();
+    if (aprChangeFork1TimeReached) {
+    	currentReward = COIN_YEAR_REWARD_APR_CHANGE_FORK1;
+    }
+
+    if (fDebug) {
+    	printf("%s(): AprChangeFork1TimeReached=%d, currentReward=%" PRId64"\n", __func__, aprChangeFork1TimeReached, currentReward);
+    }
+
+    int64_t nSubsidy = nCoinAge * currentReward * 33 / (365 * 33 + 8);
 
     bool isSuperblock = (nBestHeight % 10 == 0);
     if (isSuperblock == true)
@@ -2903,10 +2921,16 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
         CAddress addrFrom;
         uint64_t nNonce = 1;
         vRecv >> pfrom->nVersion >> pfrom->nServices >> nTime >> addrMe;
-        if (pfrom->nVersion < MIN_PEER_PROTO_VERSION)
+
+        bool aprChangeFork1TimeReached = AprChangeFork1TimeReached();
+        if (fDebug) {
+        	printf("%s(): AprChangeFork1TimeReached=%d\n", __func__, aprChangeFork1TimeReached);
+        }
+
+        if (pfrom->nVersion < MIN_PEER_PROTO_VERSION && aprChangeFork1TimeReached)
         {
             // disconnect from peers older than this proto version
-            printf("partner %s using obsolete version %i; disconnecting\n", pfrom->addr.ToString().c_str(), pfrom->nVersion);
+            printf("%s(): partner %s using obsolete version %i; disconnecting\n", __func__, pfrom->addr.ToString().c_str(), pfrom->nVersion);
             pfrom->fDisconnect = true;
             return false;
         }

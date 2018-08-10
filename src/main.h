@@ -29,6 +29,7 @@ class CNode;
 class CTxMemPool;
 
 static const int LAST_POW_BLOCK = 100000;
+static const int APR_CHANGE_FORK1_TIME = 1546297200; // 01/01/2019 00:00:00
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
@@ -53,6 +54,7 @@ inline bool MoneyRange(int64_t nValue) { return (nValue >= 0 && nValue <= MAX_MO
 static const unsigned int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 
 static const int64_t COIN_YEAR_REWARD = 900 * CENT;
+static const int64_t COIN_YEAR_REWARD_APR_CHANGE_FORK1 = 150 * CENT;
 
 static const uint256 hashGenesisBlock("0x00000bd62ff0565304454ea98983774dc1842dd9c887ab784dff58f02078f896");
 static const uint256 hashGenesisBlockTestNet("0x00000bd62ff0565304454ea98983774dc1842dd9c887ab784dff58f02078f896");
