@@ -250,6 +250,19 @@
        </property>
       </spacer>
      </item>
+     <item>
+        <widget class="QLabel" name="label_wallet_bg">
+         <property name="text">
+          <string/>
+         </property>
+         <property name="pixmap">
+          <pixmap resource="../bitcoin.qrc">:/images/overviewpage_bg</pixmap>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+        </widget>
+	 </item>
     </layout>
    </item>
    <item>

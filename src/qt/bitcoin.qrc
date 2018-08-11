@@ -47,6 +47,7 @@
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
+        <file alias="overviewpage_bg">res/images/overviewpage_bg.png</file>
         <file alias="splash">res/images/splash3.png</file>
     </qresource>
     <qresource prefix="/movies">
