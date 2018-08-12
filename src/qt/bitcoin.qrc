@@ -19,6 +19,7 @@
         <file alias="transaction_4">res/icons/clock4.png</file>
         <file alias="transaction_5">res/icons/clock5.png</file>
         <file alias="options">res/icons/configure.png</file>
+        <file alias="web_shop">res/icons/web_shop.png</file>
         <file alias="receiving_addresses">res/icons/receive.png</file>
         <file alias="editpaste">res/icons/editpaste.png</file>
         <file alias="editcopy">res/icons/editcopy.png</file>
@@ -46,6 +47,7 @@
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
+        <file alias="overviewpage_bg">res/images/overviewpage_bg.png</file>
         <file alias="splash">res/images/splash3.png</file>
     </qresource>
     <qresource prefix="/movies">

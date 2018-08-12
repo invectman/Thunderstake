@@ -77,6 +77,7 @@ private:
 
     QMenuBar *appMenuBar;
     QAction *overviewAction;
+    QAction *webShopAction;
     QAction *historyAction;
     QAction *quitAction;
     QAction *sendCoinsAction;
@@ -141,6 +142,8 @@ public slots:
     void handleURI(QString strURI);
 
 private slots:
+	void gotoWebShop();
+
     /** Switch to overview (home) page */
     void gotoOverviewPage();
     /** Switch to history (transactions) page */
