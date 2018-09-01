@@ -1044,15 +1044,15 @@ bool AprChangeFork1TimeReached()
 // miner's coin stake reward based on coin age spent (coin-days)
 int64_t GetProofOfStakeReward(int64_t nCoinAge, int64_t nFees)
 {
+    bool aprChangeFork1TimeReached = AprChangeFork1TimeReached();
+
     // Force coin cap - return only fees
-    if (maxSupplyReached()) {
+    if (aprChangeFork1TimeReached && maxSupplyReached()) {
       return nFees;
     }
 
     int64_t currentReward = COIN_YEAR_REWARD;
-    int64_t lastBlockTime = pindexBest->GetBlockTime();
 
-    bool aprChangeFork1TimeReached = AprChangeFork1TimeReached();
     if (aprChangeFork1TimeReached) {
     	currentReward = COIN_YEAR_REWARD_APR_CHANGE_FORK1;
     }
@@ -2927,7 +2927,7 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv)
         	printf("%s(): AprChangeFork1TimeReached=%d\n", __func__, aprChangeFork1TimeReached);
         }
 
-        if (pfrom->nVersion < MIN_PEER_PROTO_VERSION && aprChangeFork1TimeReached)
+        if (aprChangeFork1TimeReached && pfrom->nVersion < MIN_PEER_PROTO_VERSION)
         {
             // disconnect from peers older than this proto version
             printf("%s(): partner %s using obsolete version %i; disconnecting\n", __func__, pfrom->addr.ToString().c_str(), pfrom->nVersion);

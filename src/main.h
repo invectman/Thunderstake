@@ -29,7 +29,7 @@ class CNode;
 class CTxMemPool;
 
 static const int LAST_POW_BLOCK = 100000;
-static const int APR_CHANGE_FORK1_TIME = 1546297200; // 01/01/2019 00:00:00
+static const int APR_CHANGE_FORK1_TIME = 1538352000; // Mon, 01 Oct 2018 00:00:00
 
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
